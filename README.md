@@ -9,7 +9,7 @@
 
 # Part 2: python
 - open `main.py`
-- make the changes where comments denote
+- complete the function as described in the file
 - commit and push the changes to your branch
 
 # Best of luck!
