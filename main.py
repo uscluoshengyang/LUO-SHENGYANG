@@ -7,6 +7,7 @@ def main():
     # Return the top 10 companies with the highest market cap.
     data = pd.read_csv("./data.csv") # read csv using pandas
     data.sort_index(by=u'market_cap')
+    print(data1[0:10])
     
     
 
